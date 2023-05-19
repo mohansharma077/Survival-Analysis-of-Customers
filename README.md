@@ -8,6 +8,8 @@
 ![Understanding Customer Churn](https://github.com/mohansharma077/Survival-Analysis-of-Customers/assets/104629829/8a03338b-c64c-40f8-bcdb-4f7dd1abac48)
 
 
+![screen_shot_2019_03__hZsSu](https://github.com/mohansharma077/Survival-Analysis-of-Customers/assets/104629829/d1c2f9b3-27a2-4a6c-a4c6-833f34fcf7ab)
+
 
 **Common techniques used in customer survival analysis include:**
 
