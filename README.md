@@ -22,9 +22,10 @@
 <h3>What are different types of customer churn survival analysis?</h3>
 <table>
   <th>Cox Proportional Hazards Model</th><td>	A statistical model used to analyze the relationship between customer characteristics and the hazard rate of churn over time. It estimates the relative risk of churn associated with various factors.</td>
-Kaplan-Meier Estimator	A non-parametric method used to estimate the survival function, which represents the probability of a customer surviving (not churning) over time. It can be used to compare survival rates between different customer segments.
-Random Survival Forest	An extension of random forest algorithms for survival analysis. It combines decision trees with survival analysis techniques to predict customer churn probabilities over time. It can handle both categorical and continuous features effectively.
-Deep Learning Models	Neural network models, such as recurrent neural networks (RNNs) or long short-term memory (LSTM) networks, can be applied to analyze sequential customer data, such as time series of customer interactions or behaviors, to predict churn probabilities at different time intervals.
-Accelerated Failure Time Model	A parametric model used to estimate the time it takes for a customer to churn based on customer features. It assumes a specific distribution for the survival times and estimates the parameters that affect the acceleration or deceleration of the time to churn.
-Support Vector Machines (SVM)	SVM algorithms can be used for churn prediction by mapping customer features to higher-dimensional spaces, where a hyperplane is constructed to separate churned and non-churned customers. It works well when the churn data is linearly separable.
+  
+<th>Kaplan-Meier Estimator</th>	A non-parametric method used to estimate the survival function, which represents the probability of a customer surviving (not churning) over time. It can be used to compare survival rates between different customer segments.
+<th>Random Survival Forest</th>	An extension of random forest algorithms for survival analysis. It combines decision trees with survival analysis techniques to predict customer churn probabilities over time. It can handle both categorical and continuous features effectively.
+<th>Deep Learning Models</th>	Neural network models, such as recurrent neural networks (RNNs) or long short-term memory (LSTM) networks, can be applied to analyze sequential customer data, such as time series of customer interactions or behaviors, to predict churn probabilities at different time intervals.
+<th>Accelerated Failure Time Model</th>	A parametric model used to estimate the time it takes for a customer to churn based on customer features. It assumes a specific distribution for the survival times and estimates the parameters that affect the acceleration or deceleration of the time to churn.
+<th>Support Vector Machines (SVM)</th>	SVM algorithms can be used for churn prediction by mapping customer features to higher-dimensional spaces, where a hyperplane is constructed to separate churned and non-churned customers. It works well when the churn data is linearly separable.
 
