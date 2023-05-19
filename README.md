@@ -8,3 +8,7 @@
 
 <h3>Customer Churn </h3> 
 <p>Customer churn is the percentage of customers that stopped using your company’s product or service during a certain time frame. It is calculated by dividing the number of customers you lost during that time period by the number of customers you had at the beginning of that time period</p>
+
+![400px-Customer_Churn](https://github.com/mohansharma077/Survival-Analysis-of-Customers/assets/104629829/992c2cbd-7dc0-4ec4-bc45-6abd8ff2f9ad)
+
+
