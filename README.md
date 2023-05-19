@@ -4,6 +4,11 @@
 
 <p>In customer survival analysis, historical data about customer interactions, transactions, and behaviors are analyzed to build predictive models. These models estimate the probability of a customer churning within a specific time period, such as the next month or quarter. By examining various customer characteristics and behaviors, such as demographics, purchase history, customer service interactions, usage patterns, and engagement metrics, the models can identify factors that are strongly correlated with customer churn.</p>
 
+
+![Understanding Customer Churn](https://github.com/mohansharma077/Survival-Analysis-of-Customers/assets/104629829/8a03338b-c64c-40f8-bcdb-4f7dd1abac48)
+
+
+
 **Common techniques used in customer survival analysis include:**
 
 <h3>Customer Churn </h3> 
