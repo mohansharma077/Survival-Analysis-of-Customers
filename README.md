@@ -1,3 +1,5 @@
 # Survival-Analysis-of-Customers
 <h2>What is survival analysis?</h2>
 <p>Customer survival analysis, also known as customer churn analysis or customer attrition analysis, is a technique used in machine learning and data analytics to predict and understand when and why customers are likely to stop using a product or service. The goal of customer survival analysis is to identify patterns and factors that contribute to customer churn, enabling businesses to take proactive measures to retain their customers.</p>
+
+<p>In customer survival analysis, historical data about customer interactions, transactions, and behaviors are analyzed to build predictive models. These models estimate the probability of a customer churning within a specific time period, such as the next month or quarter. By examining various customer characteristics and behaviors, such as demographics, purchase history, customer service interactions, usage patterns, and engagement metrics, the models can identify factors that are strongly correlated with customer churn.</p>
