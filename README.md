@@ -20,9 +20,8 @@
 
 
 <h3>What are different types of customer churn survival analysis?</h3>
-
-Type of Customer Churn Survival Analysis	Description
-Cox Proportional Hazards Model	A statistical model used to analyze the relationship between customer characteristics and the hazard rate of churn over time. It estimates the relative risk of churn associated with various factors.
+<thead>
+<th>Ttd>Cox Proportional Hazards Model	A statistical model used to analyze the relationship between customer characteristics and the hazard rate of churn over time. It estimates the relative risk of churn associated with various factors.</td></th>
 Kaplan-Meier Estimator	A non-parametric method used to estimate the survival function, which represents the probability of a customer surviving (not churning) over time. It can be used to compare survival rates between different customer segments.
 Random Survival Forest	An extension of random forest algorithms for survival analysis. It combines decision trees with survival analysis techniques to predict customer churn probabilities over time. It can handle both categorical and continuous features effectively.
 Deep Learning Models	Neural network models, such as recurrent neural networks (RNNs) or long short-term memory (LSTM) networks, can be applied to analyze sequential customer data, such as time series of customer interactions or behaviors, to predict churn probabilities at different time intervals.
